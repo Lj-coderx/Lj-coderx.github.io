@@ -1,11 +1,11 @@
 # Site settings
-author: Lj
-title: 
+author: :)
+title: Journey of a Full Stack Engineer
 header-img: img/home-bg.png
 email: tnedutsl457892@gmail.com
-copyright_name: Lj
+copyright_name: :)
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding & things
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Lj-coderx
